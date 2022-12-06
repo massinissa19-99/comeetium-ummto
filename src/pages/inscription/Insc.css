@@ -1,0 +1,39 @@
+.back-home {
+  display: flex;
+}
+
+.insc {
+  padding-top: 5%;
+}
+
+.insc img {
+  margin: 0 auto;
+}
+.retour {
+  display: flex;
+}
+
+.retour span {
+  text-transform: capitalize;
+  font-weight: 800;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(86, 86, 87);
+}
+.retour span:hover {
+  border: 1px solid rgb(226, 115, 25);
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.insc h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+  padding-top: 5%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 2px;
+  color: rgb(226, 115, 25);
+}
+.nav {
+  background-color: rgba(126, 120, 120, 0.726);
+}
